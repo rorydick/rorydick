@@ -12,7 +12,7 @@ My technical specialisation is **high-fidelity modelling of dynamic systems** fo
 *   **Guidance, Navigation & Control (GNC):** Algorithm development for orbital launch vehicles and spacecraft.
 *   **Mathematical Optimisation:** Applied convexification-based optimisation for retro-propulsive rocket landing trajectories.
 *   **Simulation:** Developing modular, object-oriented simulation frameworks in **Python** and **MATLAB/Simulink**.
-*   **Verification & Validation (V&V):** Analyzing heterogeneous datasets to ensure systems meet strict safety requirements.
+*   **Verification & Validation (V&V):** Analysing heterogeneous datasets to ensure systems meet strict safety requirements.
 
 ### 🛡️ Existential Risk Research
 At **MPIL**, I run an open research platform conducting research to safeguard the future of life. We focus on neglected, high-stakes challenges:
