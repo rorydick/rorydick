@@ -1,4 +1,4 @@
-# Rory Dick (https://mpil.life)
+# Rory Dick (https://rorydick.com)
 
 Aerospace engineer and researcher focused on modelling/simulation of dynamic systems, and on AI safety / existential risk mitigation.
 
@@ -17,5 +17,6 @@ Founder, **Mission to Protect Intelligent Life (MPIL)** — https://mpil.life
 
 ## Contact
 
-- Website: https://mpil.life
+- Personal site: https://rorydick.com
+- MPIL: https://mpil.life
 - LinkedIn: https://www.linkedin.com/in/rorydick
