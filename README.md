@@ -1,4 +1,4 @@
-# Rory Dick
+# Rory Dick (https://mpil.life)
 
 Aerospace engineer and researcher focused on modelling/simulation of dynamic systems, and on AI safety / existential risk mitigation.
 
